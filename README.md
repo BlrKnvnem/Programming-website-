@@ -30,11 +30,17 @@ This is a simple WordPress website built to provide information and articles abo
 ## 📁 Folder Structure
 programming-site/
 ├── wp-content/
+
 │ ├── themes/
+
 │ └── plugins/
+
 ├── wp-admin/
+
 ├── wp-includes/
+
 ├── index.php
+
 └── wp-config.php
 
 ## 🧠 Topic Coverage
